@@ -1,0 +1,27 @@
+{
+  "name": "restdudeGulpWebpackEs6",
+  "version": "0.1.0",
+  "homepage": "",
+  "authors": [
+    "nickkapetanas <nkapetanas@outlook.com>"
+  ],
+  "description": "testin project for restdude",
+  "main": [
+    "dist/scripts/restdudeGulpWebpackEs6.js"
+  ],
+  "moduleType": "es6",
+  "keywords": [ ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "d3": "~3.5.13",
+    "jquery": "~2.2.0"
+  },
+  "version": "0.8.1"
+}
