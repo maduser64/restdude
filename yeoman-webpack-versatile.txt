@@ -1,0 +1,48 @@
+1) npm install -g yo
+2)npm install gulp
+npm install gulp -g
+npm install gulp-util
+npm install gulp-util -g
+
+------------------------------------------------------------------------
+Use webpack to write client code as ES2015 modules or in CommonJS-format.
+
+Use browersync for fast live testing on multiple devices.
+
+Use babel to transpile ES2015.
+
+Use gulp for all task automation.
+
+Use pug for server and client templating.
+
+Use karma for client-tests. There is also support for smoke-testing your application - either in your installed browsers or headlessly using PhantomJS.
+
+Use mocha with chai for unit-tests.
+
+Optionally
+Use modernizr for browser-feature detection.
+
+Use foundation or bootstrap for responsive client-side styling.
+
+Use backbone as a lightweight client-library to build agile single-page web applications.
+
+Use marionette to organize your backbone views.
+
+Use sass as versatile CSS-Preprocessor (required for bootstrap and foundation).
+
+Use cache-crusher to provide cache-busting for your production-build.
+
+Usage
+The following additional npm-packages are assumed to be installed globally: bower, gulp, yo.
+
+----$ npm install -g bower gulp yo generator-webpack-versatile
+Finally, initiate the generator:
+
+----$ yo webpack-versatile
+Generators
+App
+Just select your preferred options and wait till your project has been scaffolded...
+
+Look in the generated file README.md for details of project layout and usage of gulp tasks.
+
+--- gulp run-watch
